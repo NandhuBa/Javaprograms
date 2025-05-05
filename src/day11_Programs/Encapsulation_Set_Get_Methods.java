@@ -23,7 +23,7 @@ public void setDesignation(String Designation)
 
 public void getDesignation()
 {
-	System.out.println("Designation of the person" + " " + Name);
+	System.out.println("Designation of the person" + " " + Designation);
 }
 
 public void printAge()
